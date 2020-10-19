@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1980478d9fc33144900b1884785a05e, type: 3}
+  m_Name: 01
+  m_EditorClassIdentifier: 
+  contents:
+  - DialogText: 'The CyberLand is fading. '
+  - DialogText: 'You lost your memory because of the collapse of the Space. And you
+      close to death. '
+  - DialogText: 'I save your life. But now is my turn to be vanish. '
+  - DialogText: 'Now you have An irrefutable duty. '
+  - DialogText: 'Find all your memory and capabilities and save the CyberLand. '
+  - DialogText: I will teach u how to Move Jump & Dash
+  - DialogText: Using Joystick or Arrow to move
+  - DialogText: Press A(Gamepad) or Space(Keyboard) To Jump
+  - DialogText: Press RB(Gamepad) or CTRL(Keyborad) To Dash
+  - DialogText: 'Also the heart and the green bar on your TOPLEFT screen. '
+  - DialogText: 'The heart means how many HP you have. '
+  - DialogText: 'The green bar show have many dash energy you have. '
+  - DialogText: 'If there is energy, you can dash and get Invincible during your
+      dash. '
+  - DialogText: 'Invincible means you won''t be hit by any enemy but not the nails
+      outside. '
+  - DialogText: 'If there is not energy, you can still dash but you cannot have Invincible. '
+  - DialogText: 'Hurry Up! Save the world. '

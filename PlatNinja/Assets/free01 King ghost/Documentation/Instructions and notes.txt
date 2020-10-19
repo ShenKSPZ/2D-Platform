@@ -1,0 +1,49 @@
+=========================================
+Licinio Souza (2D Game Artist freelancer)
+liciniosouz@gmail.com
+=========================================
+
+***This doc can have little differences in each pack***
+
+CREATURES OF THE NIGHT!
+Pack with 4 different 2D animated characters (above ~200frames):
+
+TECHNICAL INFOS
+Resolution (each frame): 56 x 80px
+Metric range: 16px
+Character: ~3 quads 16px (30 x 45px)
+
+===============================
+GENERAL ANIMATIONS
+-Stand
+-Run
+-Jump
+-Falling
+-Attack 1
+-Attack 2
+-Projectil
+-Defense
+-Death
+
+GENERAL LAYERS
+- character
+- projectil
+- reference
+
+
+In the PSD:
+- extra colors (change color)
+- shadow (you can export together with the player)
+- layout /  reference, indication for loops
+
+
+===========================================
+Coming Soon:
+- visit my shop for see the news! I'll provide a entire game in the universe of Creatures of the Night!
+
+More of this Collection!
+PACK 1 - vampires: https://assetstore.unity.com/packages/3d/animations/creatures-of-the-night-vampires-146842 
+PACK 2 - Monks: https://assetstore.unity.com/packages/3d/animations/pixel-art-creatures-of-the-night-supernatural-hunters-monk-147035
+
+If you liked, please, give positive feedback and rate this asset. Any doubt or question, I'm here! =]
+

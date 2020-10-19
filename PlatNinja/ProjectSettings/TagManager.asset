@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - Mechanism
+  - Obstacles
+  - Enemy
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - EnemyHurtBox
+  - PlayerHurtBox
+  - Enemy
+  - Player
+  - Mechanism
+  - Obstacles
+  - BreakPart
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1130646221
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3219783091
+    locked: 0
+  - name: Player
+    uniqueID: 2896836081
+    locked: 0
+  - name: Partical
+    uniqueID: 212711865
+    locked: 0
+  - name: UI
+    uniqueID: 1859279011
+    locked: 0
+  - name: FX
+    uniqueID: 2634417421
+    locked: 0
